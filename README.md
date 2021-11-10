@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tahayusufkomur
-- 👀 I’m interested in Python, Devops, Go
-- 🌱 I’m currently learning Devops
+- 👀 I’m interested in Data Engineering, Devops, Go
+- 🌱 I’m currently learning Devops, Data Engineering
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me tahayusufkomur@gmail.com
 
