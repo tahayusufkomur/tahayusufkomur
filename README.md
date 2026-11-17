@@ -8,7 +8,7 @@ I build cloud infrastructure, internal developer tooling, and the paved road tha
 #### What I'm building
 
 - **[S3 Administrator](https://github.com/s3administrator)** — open-source S3 manager for AWS, Hetzner, Cloudflare R2 and MinIO. Desktop app and SaaS. ([s3administrator.com](https://s3administrator.com))
-- **[SqueezeVid](https://squeezevid.com)** — video compression tool used by 10k+ people a month, with 10 TB+ of video processed.
+- **[SqueezeVid](https://squeezevid.com)** — video compression tool used by 10k+ people and processing 10 TB+ of video every month.
 
 #### Certifications
 
